@@ -20,14 +20,22 @@ h4{
     margin-left: 400px;
     margin-right: 400px;
     border-radius: 50%;
-    height: 50px;
-    padding: 13px;
-    text-align: center;
+    height: 70px;
+    width: 180px;
+    padding: 16px;
     color: #FFA900;
+    font-size: 30px;
 }
 
 #hover:hover{
-    font-weight: 900;
+    background-color: #FFA900;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 50%;
+    height: 70px;
+    width: 180px;
+    font-weight: bolder;
+    color: white;
 }
 
 #circle:hover{
